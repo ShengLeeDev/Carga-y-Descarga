@@ -74,10 +74,14 @@
 		padding-top: 90px;
 	}
 
+	.section-about {
+		padding: 70px 0;
+	}
+
 	.section-skills,
 	.section-portfolio,
 	.section-form {
-	    padding-bottom: 90px;
+	    padding-bottom: 0;
 	}
 
 	.site-section h2,
